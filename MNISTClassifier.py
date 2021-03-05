@@ -1,5 +1,6 @@
 #I tried to not use the Kaggle .csv train data but rather load the data in from Keras, 
 #but Kaggle would stop working after getting a connection with the server to download the data (so it wouldn't even download the data, it would just connect?).
+#So I made another model and used it in python, but this was the model that I first made in Kaggle. The working model has barely any changes to it, so putting it up is pointless.
 
 import numpy as np # linear algebra
 import pandas as pd # data processing, CSV file I/O (e.g. pd.read_csv)
